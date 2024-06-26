@@ -1,0 +1,63 @@
+[2010-ECCV] 3D Reconstruction of a Moving Point from a Series of 2D Projections
+[2017-CVPR] Dataset and Pipeline for Multi-View Light-Field Video
+[2019-SIGGRAPH] Neural Volumes - Learning Dynamic Renderable Volumes from Images
+[2020-CVPR] Novel View Synthesis of Dynamic Scenes With Globally Coherent Depths From a Monocular Camera
+[2020-TOG] Immersive Light Field Video with a Layered Mesh Representation
+[2021-CVPR] D-NeRF - Neural Radiance Fields for Dynamic Scenes
+[2021-CVPR] Neural Body - Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans
+[2021-CVPR] Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes
+[2021-CVPR] Space-Time Neural Irradiance Fields for Free-Viewpoint Video
+[2021-ICCV] Deep 3D Mask Volume for View Synthesis of Dynamic Scenes
+[2021-ICCV] Dynamic View Synthesis from Dynamic Monocular Video
+[2021-ICCV] Nerfies - Deformable Neural Radiance Fields
+[2021-ICCV] Non-Rigid Neural Radiance Fields - Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video
+[2021] HyperNeRF - A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields
+[2022-ACM-MSC] A New Free Viewpoint Video Dataset and DIBR Benchmark
+[2022-CVPR] Neural 3D Video Synthesis from Multi-view Video
+[2022-ECCV] Temporal-MPI - Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning
+[2022-NeurIPS] Monocular Dynamic View Synthesis - A Reality Check
+[2022-NeurIPS] Streaming Radiance Fields for 3D Video Synthesis
+[2022-SIGGRAPH-Asia] Fast Dynamic Radiance Fields with Time-Aware Neural Voxels
+[2022] A Portable Multiscopic Camera for Novel View and Time Synthesis in Dynamic Scenes
+[2022] D-TensoRF - Tensorial Radiance Fields for Dynamic Scenes
+[2022] D2NeRF - Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video
+[2022] DeVRF - Fast Deformable Voxel Radiance Fields for Dynamic Scenes
+[2022] FFNeRV - Flow-Guided Frame-Wise Neural Representations for Videos
+[2022] Fast Non-Rigid Radiance Fields from Monocularized Data
+[2022] Mixed Neural Voxels for Fast Multi-view Video Synthesis
+[2022] MonoNeRF - Learning a Generalizable Dynamic Radiance Field from Monocular Videos
+[2022] Multiplane NeRF-Supervised Disentanglement of Depth and Camera Pose from Videos
+[2022] NeRFPlayer - A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields
+[2022] Neural Deformable Voxel Grid for Fast Optimization of Dynamic View Synthesis
+[2022] ParticleNeRF - A Particle-Based Encoding for Online Neural Radiance Fields in Dynamic Scenes
+[2022] Spline-NeRF - C0-Continuous Dynamic NeRF
+[2022] Tensor4D - Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering
+[2022] wildNeRF - Complete view synthesis of in-the-wild dynamic scenes captured using sparse monocular data
+[2023-CVPR] DynIBaR - Neural Dynamic Image-Based Rendering
+[2023-CVPR] HexPlane - A Fast Representation for Dynamic Scenes
+[2023-CVPR] HyperReel - High-Fidelity 6-DoF Video with Ray-Conditioned Sampling
+[2023-CVPR] K-Planes - Explicit Radiance Fields in Space, Time, and Appearance
+[2023-CVPR] Robust Dynamic Radiance Fields
+[2023-ICCV] 3D Motion Magnification - Visualizing Subtle Motions from Time-Varying Radiance Fields
+[2023-ICCV] Deformable Neural Radiance Fields using RGB and Event Cameras
+[2023-ICCV] Dynamic Point Fields
+[2023-ICCV] Forward Flow for Novel View Synthesis of Dynamic Scenes
+[2023-ICCV] Mixed Neural Voxels for Fast Multi-view Video Synthesis
+[2023-ICCV] MonoNeRF - Learning a Generalizable Dynamic Radiance Field from Monocular Videos
+[2023-TVCG] NerfCap - Human Performance Capture with Dynamic Neural Radiance Fields
+[2023] An Efficient 3D Gaussian Representation for Monocular and Multi-view Dynamic Scenes
+[2023] BLiRF - Band Limited Radiance Fields for Dynamic Scene Modeling
+[2023] Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields
+[2023] Dynamic Mesh-Aware Radiance Fields
+[2023] Factor Fields - A Unified Framework for Neural Fields and Beyond
+[2023] Flow supervision for Deformable NeRF
+[2023] GsNeRF - Fast Novel View Synthesis of Dynamic Radiance Fields
+[2023] SceNeRFlow - Time-Consistent Reconstruction of General Dynamic Scenes
+[2023] Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields
+[2023] Unsupervised Volumetric Animation
+[2023] WavePlanes - A compact Wavelet representation for Dynamic Neural Radiance Fields
+[2023] Fast View Synthesis of Casual Videos
+[2023-NeurIPS] NVFi - Neural Velocity Fields for 3D Physics Learning from Dynamic Videos
+[2023-SIGGRAPH-Asia] High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes
+[2023] CoGS - Controllable Gaussian Splatting
+[2023] Gaussian-Flow - 4D Reconstruction with Dynamic 3D Gaussian Particle

@@ -1,0 +1,33 @@
+% Shree KRISHNAya Namaha
+%! Suppress = TooLargeSection
+\documentclass{article}
+\title{Literature - My Notes}
+\author{Nagabhushan S N}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[mathscr]{euscript}
+\usepackage{fancyhdr}
+\usepackage[a4paper,margin=1in,footskip=0.25in]{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\hypersetup{
+    colorlinks = true,
+    linkcolor = black
+}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\setcounter{tocdepth}{1}
+\setcounter{secnumdepth}{5}
+\pagestyle{fancy}
+\fancyhead[LR]{}
+\fancyhead[C]{\nouppercase{\leftmark}}
+
+\begin{document}
+\maketitle
+\pdfbookmark[1]{\contentsname}{toc}
+\tableofcontents
+\newpage
+
+<NotesMergerContent>
+
+\end{document}
